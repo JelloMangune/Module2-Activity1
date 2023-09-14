@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{8D8BEAE2-97D0-4C8C-A4F9-A7E1CBC7E375}|Default">
+  <MonoDevelop.Ide.ItemProperties.Module02__Activity01.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module02_Activity01/Module02_Activity01/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Module02_Activity01/Module02_Activity01/MainPage.xaml.cs" Line="20" Column="1" />
+      <File FileName="Module02_Activity01/Module02_Activity01/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Module02_Activity01/Module02_Activity01/App.xaml.cs" Line="13" Column="61" />
+      <File FileName="Module02_Activity01/Module02_Activity01/ViewModel/TaskViewModel.cs" Line="21" Column="6" />
+      <File FileName="Module02_Activity01/Module02_Activity01/View/Page1.xaml" Line="18" Column="23" />
+      <File FileName="Module02_Activity01/Module02_Activity01/View/Page1.xaml.cs" Line="11" Column="30" />
+      <File FileName="Module02_Activity01/Module02_Activity01/Model/TaskModel.cs" Line="5" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Module02_Activity01" expanded="True">
+            <Node name="Module02_Activity01">
+              <Node name="View" expanded="True">
+                <Node name="Page1.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Module02__Activity01 FirstBuild="True" />
+</Properties>
